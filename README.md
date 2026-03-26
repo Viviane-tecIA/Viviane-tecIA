@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 Sobre Mim
-Mãe de 4 filhos e apaixonada por tecnologia. Minha trajetória é marcada pela **gestão de alta complexidade na vida real**, o que me deu uma base sólida em organização, priorização e resolução de problemas — competências que hoje aplico no desenvolvimento de Inteligência Artificial e Cloud Computing.
+Mãe de 4 filhos e apaixonada por tecnologia. Minha trajetória é marcada pela **gestão de alta complexidade na vida real**, o que me deu uma base sólida em organização, priorização e resolução de problemas — competências que hoje aplico no desenvolvimento de Inteligência Artificial.
 
 ---
 
